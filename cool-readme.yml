@@ -1,0 +1,16 @@
+user: rager306
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  languages:
+    count: 6
+    hide: [JavaScript]
+  contributions:
+    open: true
+  summary:
+    ring: github
